@@ -4,3 +4,13 @@ Veronica
 Carlos
 Jessica
 Willy
+
+git branch -m //trocar o nome de uma branch(ramo) de git
+
+git branch -M //trocar o nome de uma branch de git FORÇOSAMENTE
+
+git remote -v //ver as ligações existentes com repositórios remotos
+
+git remote add _variavel_ _link_ //estabelecer ligação com um repositório remoto 
+
+git push _variavel_ _branch_ //enviar o projeto para o repositório escolhido
